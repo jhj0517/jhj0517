@@ -19,6 +19,6 @@ I'm a self-motivated and enthusiastic software developer with a keen interest in
 ## Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/developer-jo-31179322a/)
-- [Email](developerjo0517@gmail.com) 
+-  Email : developerjo0517@gmail.com
 
 I am always open to discussing new opportunities and projects. Feel free to reach out to me through my LinkedIn or email.
