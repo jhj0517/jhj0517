@@ -10,7 +10,7 @@ I'm a self-motivated and enthusiastic software developer with a keen interest in
 
 ## My Projects
 
-- [Dlib Face Parser WebUI](link): This project aims to provide a user-friendly Web UI that allows for easy automatic parsing of faces and saving of each facial part as an individual image, as well as saving the parsed images as a .tif file that can be easily viewed in GIMP on a layer-by-layer basis.
+- [Dlib Face Parsing WebUI](link): This project aims to provide a user-friendly Web UI that allows for easy automatic parsing of faces and saving of each facial part as an individual image, as well as saving the parsed images as a .tif file that can be easily viewed in GIMP on a layer-by-layer basis.
 
 ## My Education
 
