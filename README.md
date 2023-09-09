@@ -14,6 +14,8 @@ I'm a self-motivated and enthusiastic software developer with a keen interest in
 
 - [Dlib Face Parsing WebUI](https://github.com/jhj0517/Dlib-Face-Parsing-WebUI): This project aims to provide a user-friendly Web UI that allows for easy automatic parsing of faces and saving of each facial part as an individual image, as well as saving the parsed images as a .tif file that can be easily viewed in GIMP on a layer-by-layer basis.
 
+- [stable-diffusion-webui-Layer-Divider](https://github.com/jhj0517/Dlib-Face-Parsing-WebUI): Extension of [SD WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) that parses objects with [segment-anything](https://github.com/facebookresearch/segment-anything) model and makes it PSD format. 
+
 - [Whisper WebUI](https://github.com/jhj0517/Whsiper-WebUI) : This project aims to make subtitle easily using whisper model which has stunning performance on STT.
 
 ## My Education
