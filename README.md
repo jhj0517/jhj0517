@@ -4,11 +4,11 @@ I'm a self-motivated and enthusiastic software developer with a keen interest in
 
 ## My Expertise
 
-- **AI:** I have experience working on various AI projects, including natural language processing, computer vision, and machine learning. I enjoy exploring and applying new AI technologies to solve real-world problems.
+- **AI:** I have experience working on various AI projects.
 
-- **Android:** I am proficient in developing Android apps using Java and Kotlin. I have experience in developing apps with modern architectural patterns such as MVVM, and integrating third-party libraries such as Retrofit, RxJava, and Dagger.
+- **Android:** I have experience in developing apps with modern architectural patterns such as MVVM, and integrating third-party libraries such as Retrofit, RxJava, and Dagger.
 
-- **Flutter:** I have some experience developing apps using Flutter. The pattern I'm familiar with is the Provider pattern. I like to use third-party libraries like SQFLite and Dio.
+- **Flutter:** I have some experience developing apps using Flutter. The pattern I'm familiar with is the Provider pattern.
 
 ## My Projects
 
