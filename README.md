@@ -16,6 +16,8 @@ I'm a self-motivated and enthusiastic software developer with a keen interest in
 
 - [Whisper WebUI](https://github.com/jhj0517/Whsiper-WebUI) : This project aims to make subtitle easily using whisper model which has stunning performance on STT.
 
+- [AIBridge](https://github.com/jhj0517/AIBridge) : Open source Flutter project that allows you to use external APIs for AI Chat
+
 ## My Education
 
 - **Bachelor's Degree:** Electrical Engineering, `KNU University`, `2023`
