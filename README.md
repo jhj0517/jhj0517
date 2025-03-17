@@ -1,4 +1,6 @@
 ## Hi 👋! This is jhj0517
+Maintaining Whisper-WebUI, an AI subtitle generator optimized for noisy audio sources (TV shows, animations) through submodels. <br>
+I'm passionate open source contributor & interested in AI techs, Android and Flutter 💪.
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@developerjo0517) 
 <!-- [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://sneaky-power-9bb.notion.site) -->
